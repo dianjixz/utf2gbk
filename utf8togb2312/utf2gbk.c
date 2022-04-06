@@ -1,4 +1,4 @@
-#include "utf8togb2312.h"
+#include "utf2gbk.h"
 
 
 typedef struct
